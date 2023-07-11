@@ -18,7 +18,7 @@ user_email = None
 # https://get.storytellers.online/teach/control/stream/view/id/289894537
 
 account_name = "storytellersonline"
-secret_key = "HWVx4LHIRMXTAEPcWV0FzOQrWA8Ya5T7xJrv6F5WrjDFqVsNVRmfxU7sa5dvIeLBQ3Ll6WwiHKjobP7EhP3rMUJpxXfmK5ICwvHLkk0VWtGdvndpDR35lY2rnkaPJWH4"
+secret_key = "123"
 url = f'https://{account_name}.getcourse.ru/pl/api/account/users?key={secret_key}&created_at[from]=2023-04-10'
 
 message_start = """Здравствуйте! Введите, пожалуйста, ваш <b>электронный адрес</b>,
